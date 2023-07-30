@@ -1,0 +1,26 @@
+.main-body {
+  background-color: var(--background);
+}
+
+.body-container {
+  display: flex;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: var(--background);
+}
+
+.body-inner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+
+.body-para {
+  color: var(--color);
+}
+
+.body-image {
+  max-width: 500px;
+  max-height: 500px;
+}
